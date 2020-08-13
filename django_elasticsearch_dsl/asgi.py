@@ -1,5 +1,5 @@
 """
-ASGI config for elasticsearch project.
+ASGI config for django_elasticsearch_dsl project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.asgi import get_asgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'elasticsearch.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'django_elasticsearch_dsl.settings')
 
 application = get_asgi_application()

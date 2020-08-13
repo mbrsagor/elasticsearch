@@ -1,0 +1,1 @@
+from django_elasticsearch_dsl import Document, Index# from elasticsearch.helpers import bulk, parallel_bulkfrom .models import Postposts = Index('posts')@posts.doc_typeclass PostDocument(Document):    class Meta:        model = Post        fields = [            'title',            'id',            'slug',            'image',            'description'        ]

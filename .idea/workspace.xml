@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1140cd0a-10d7-4a5d-8aa1-cb72acb87bea" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/elasticsearch.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/article/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/article/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/article/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/article/documents.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/article/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/article/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/article/templates/search.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/article/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/article/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/article/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elasticsearch/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elasticsearch/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elasticsearch/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elasticsearch/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elasticsearch/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -53,14 +31,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/django_elasticsearch_dsl/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
+            <state relative-caret-position="396">
               <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="e#648#680#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="144">
+                <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -85,6 +75,7 @@
         <option value="$PROJECT_DIR$/search/admin.py" />
         <option value="$PROJECT_DIR$/django_elasticsearch_dsl/urls.py" />
         <option value="$PROJECT_DIR$/search/urls.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -297,11 +288,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/django_elasticsearch_dsl/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
+        <state relative-caret-position="396">
           <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="e#648#680#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="144">
+            <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

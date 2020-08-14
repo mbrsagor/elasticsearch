@@ -20,6 +20,10 @@ brew tap elastic/tap
 brew install elastic/tap/elasticsearch-full
 ```
 
+##### Run Elasticsearch locally
+example
+``` /usr/local/bin  ./elasticsearch```
+
 ###### Run Elasticsearch
 [Follow the link](https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started-install.html)
 
